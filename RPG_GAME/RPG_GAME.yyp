@@ -38,6 +38,7 @@
     {"id":{"name":"obj_object_blcoker","path":"objects/obj_object_blcoker/obj_object_blcoker.yy",},},
     {"id":{"name":"torso","path":"objects/torso/torso.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"food","path":"sprites/food/food.yy",},},
     {"id":{"name":"main_carchter","path":"sprites/main_carchter/main_carchter.yy",},},
     {"id":{"name":"object_blocker","path":"sprites/object_blocker/object_blocker.yy",},},
     {"id":{"name":"second_guy_move_feet_left","path":"sprites/second_guy_move_feet_left/second_guy_move_feet_left.yy",},},
