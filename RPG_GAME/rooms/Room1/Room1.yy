@@ -387,7 +387,7 @@
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_237673C1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_237673C1","objectId":{"name":"obj_torso","path":"objects/obj_torso/obj_torso.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.15,"scaleY":0.15,"x":2304.0,"y":2144.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRTileLayer":"","%Name":"food_object_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"food_object_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":1152,"SerialiseWidth":2049,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"food_object_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"food_object_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":1150,"SerialiseWidth":2049,"TileCompressedData":[
           -1742335,-2147483648,1,43404,-4099,-2147483648,1,43404,-6150,-2147483648,1,43404,-2051,-2147483648,-320,
           43404,-1729,-2147483648,-320,43404,-1729,-2147483648,-23,43404,-11,0,-193,43404,11,46643,46644,46645,
           46646,46647,46648,46649,46650,46651,46652,46653,-82,43404,-1729,-2147483648,-23,43404,-11,0,-24,43404,
@@ -465,9 +465,9 @@
           -13,0,-97,43404,-1729,-2147483648,-24,43404,-11,0,-285,43404,-1729,-2147483648,-24,43404,-11,0,-285,
           43404,-1729,-2147483648,-24,43404,-11,0,-285,43404,-1729,-2147483648,-24,43404,-11,0,-285,43404,-1729,
           -2147483648,-24,43404,-11,0,-285,43404,-1729,-2147483648,-24,43404,-11,0,-285,43404,-1753,-2147483648,
-          -11,0,-2038,-2147483648,-11,0,-550452,-2147483648,
+          -11,0,-2038,-2147483648,-11,0,-546354,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet6","path":"tilesets/TileSet6/TileSet6.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRTileLayer":"","%Name":"food_object_2","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"food_object_2","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":1152,"SerialiseWidth":2049,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"food_object_2","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"food_object_2","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":1150,"SerialiseWidth":2049,"TileCompressedData":[
           -1658618,-2147483648,-76,0,-1971,-2147483648,-78,0,-1971,-2147483648,-78,0,-1874,-2147483648,10,22353,
           22354,22353,22354,22353,22354,22353,22354,22353,22354,-87,-2147483648,-78,0,-1874,-2147483648,10,22704,
           22705,22704,22705,22704,22705,22704,22705,22704,22705,-87,-2147483648,-78,0,-1874,-2147483648,10,23055,
@@ -960,7 +960,7 @@
           76566,76567,76568,76569,-1967,-2147483648,-31,0,-37,-2147483648,14,76907,76908,76909,76910,76911,76912,
           76913,76914,76915,76916,76917,76918,76919,76920,-1967,-2147483648,-31,0,-37,-2147483648,14,77258,77259,
           77260,77261,77262,77263,77264,77265,77266,77267,77268,77269,77270,77271,-1967,-2147483648,-31,0,-2026,
-          -2147483648,-23,0,-2030,-2147483648,-19,0,-207727,-2147483648,
+          -2147483648,-23,0,-2030,-2147483648,-19,0,-203629,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet6","path":"tilesets/TileSet6/TileSet6.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"restaurant_object_2","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"restaurant_object_2","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":144,"SerialiseWidth":257,"TileCompressedData":[-37008,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"restaurant","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"restaurant","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":144,"SerialiseWidth":257,"TileCompressedData":[
@@ -1541,7 +1541,7 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":2304,
+    "Height":2300,
     "inheritRoomSettings":false,
     "persistent":false,
     "Width":4098,

@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"second_guy_move_feet_left_right",
-    "path":"sprites/second_guy_move_feet_left_right/second_guy_move_feet_left_right.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
