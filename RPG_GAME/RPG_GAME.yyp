@@ -40,6 +40,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"food","path":"sprites/food/food.yy",},},
     {"id":{"name":"object_blocker","path":"sprites/object_blocker/object_blocker.yy",},},
+    {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_guy_feet_down","path":"sprites/spr_guy_feet_down/spr_guy_feet_down.yy",},},
     {"id":{"name":"spr_guy_feet_left","path":"sprites/spr_guy_feet_left/spr_guy_feet_left.yy",},},
     {"id":{"name":"spr_guy_feet_right","path":"sprites/spr_guy_feet_right/spr_guy_feet_right.yy",},},
