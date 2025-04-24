@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_FEET",
+  "%Name":"obj_spaghetti_guy",
   "eventList":[],
   "managed":true,
-  "name":"obj_FEET",
+  "name":"obj_spaghetti_guy",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,8 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"spr_spaghetti_guy",
+    "path":"sprites/spr_spaghetti_guy/spr_spaghetti_guy.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
