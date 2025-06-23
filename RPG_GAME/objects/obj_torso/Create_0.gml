@@ -1,2 +1,4 @@
-move_speed = 10;
+move_speed = 8;
+
+health=10;
 

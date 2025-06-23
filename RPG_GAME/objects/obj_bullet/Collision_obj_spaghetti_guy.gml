@@ -5,3 +5,6 @@ instance_destroy();
 with (other) {
     instance_destroy(); // Destroy this specific enemy
 }
+
+global.enemies_killed += 1;
+

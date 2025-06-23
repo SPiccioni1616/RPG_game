@@ -1,14 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_spaghetti_guy",
+  "%Name":"Object6",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_object_blcoker","path":"objects/obj_object_blcoker/obj_object_blcoker.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_spaghetti_guy",
+  "name":"Object6",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,10 +29,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_spaghetti_guy",
-    "path":"sprites/spr_spaghetti_guy/spr_spaghetti_guy.yy",
+    "name":"Sprite34",
+    "path":"sprites/Sprite34/Sprite34.yy",
   },
   "spriteMaskId":null,
   "visible":true,
